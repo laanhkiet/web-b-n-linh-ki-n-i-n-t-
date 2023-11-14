@@ -2,7 +2,7 @@
 class DANHMUC{
     private $id;
     private $tendanhmuc;
-
+    a
     public function getid(){
         return $this->id;
     }
